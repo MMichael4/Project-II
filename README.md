@@ -77,4 +77,6 @@ Clean, normalized schema design as a foundation for future queries, reporting, o
 
 ---
 
-## 👤 Author Michael Michael — BA | Data Analyst | SQL
+## 👤 Author 
+---
+Michael Michael — BA | Data Analyst | SQL
