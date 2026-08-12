@@ -4,7 +4,7 @@
 ---
 This project designs and implements a relational database for Suzie Fashion, a clothing retail business. The database models core business entities — products, customers, and orders — with proper normalization and referential integrity, forming the foundation for order management and sales tracking.
 
----
+
 
 ## 🧰 Tools & Technologies
 
