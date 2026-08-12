@@ -8,6 +8,8 @@ This project designs and implements a relational database for Suzie Fashion, a c
 
 ## 🧰 Tools & Technologies
 
+---
+
 SQL (MySQL-compatible syntax) – Database design & implementation
 Relational database modeling – Primary keys, foreign keys, normalization
 
