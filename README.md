@@ -59,4 +59,4 @@ Correct use of primary keys, foreign keys, and composite keys
 Understanding of one-to-many and many-to-many relationships
 Clean, normalized schema design as a foundation for future queries, reporting, or application development
 
-👤 Author Ishan Chandra — MBA | Data Analyst | SQL
+👤 Author Michael Michael — BA | Data Analyst | SQL
